@@ -1,5 +1,6 @@
 langchain 
 langchain-community
 langchain-openai
-langchain_pinecone streamlit
+langchain_pinecone
+streamlit
 python-dotenv
